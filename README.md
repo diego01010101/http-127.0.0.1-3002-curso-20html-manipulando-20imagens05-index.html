@@ -1,1 +1,0 @@
-# http-127.0.0.1-3002-curso-20html-manipulando-20imagens05-index.html
